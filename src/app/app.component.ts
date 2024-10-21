@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+*/
 import { ChangeDetectorRef, Component, ElementRef, ViewChild } from '@angular/core';
 import { NavigationCancel, NavigationEnd, NavigationError, NavigationExtras, NavigationStart, Router, RouterEvent } from '@angular/router';
 import { ApiService } from './services/api.service';

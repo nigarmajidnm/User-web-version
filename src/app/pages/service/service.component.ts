@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { ModalDirective } from 'angular-bootstrap-md';

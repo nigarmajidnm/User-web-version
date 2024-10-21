@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { TopFreelancersComponent } from './top-freelancers.component';

@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 export interface mobile {
   ccCode: string;
   phone: string;

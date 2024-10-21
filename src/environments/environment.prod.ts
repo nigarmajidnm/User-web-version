@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+*/
 export const environment = {
   production: true,
   baseURL: 'https://api.domain.com/public/api/',

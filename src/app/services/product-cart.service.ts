@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { Injectable } from '@angular/core';
 import { UtilService } from './util.service';
 import { ApiService } from './api.service';

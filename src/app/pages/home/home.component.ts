@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { Component, OnInit } from '@angular/core';
 import { NavigationExtras, Router } from '@angular/router';
 import { UtilService } from 'src/app/services/util.service';

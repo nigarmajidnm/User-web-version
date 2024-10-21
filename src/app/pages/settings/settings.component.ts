@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { ChangeDetectorRef, Component, ElementRef, OnInit, ViewChild } from '@angular/core';
 import { ActivatedRoute, NavigationEnd, NavigationExtras, Router } from '@angular/router';
 import { ModalDirective } from 'angular-bootstrap-md';

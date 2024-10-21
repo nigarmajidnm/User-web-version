@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { Component, OnInit } from '@angular/core';
 import * as moment from 'moment';
 import { ApiService } from 'src/app/services/api.service';

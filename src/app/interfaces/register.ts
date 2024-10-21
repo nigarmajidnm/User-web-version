@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 export interface register {
   email: string;
   first_name: string;

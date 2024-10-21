@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { ChangeDetectorRef, Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { ApiService } from 'src/app/services/api.service';

@@ -1,6 +1,6 @@
 /*
   Authors : NigarMajid
-  
+  */
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { AwaitPaymentsComponent } from './await-payments.component';
